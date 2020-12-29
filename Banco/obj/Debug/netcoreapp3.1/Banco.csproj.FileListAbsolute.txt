@@ -1,0 +1,15 @@
+C:\Users\linconl\source\repos\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\linconl\source\repos\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\linconl\source\repos\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\linconl\source\repos\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\linconl\source\repos\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linconl\source\repos\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linconl\source\repos\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\linconl\source\repos\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.Form1.resources
+C:\Users\linconl\source\repos\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.GenerateResource.cache
+C:\Users\linconl\source\repos\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\linconl\source\repos\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\linconl\source\repos\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\linconl\source\repos\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linconl\source\repos\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linconl\source\repos\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
