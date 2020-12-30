@@ -2,6 +2,10 @@
 {
     internal class ContaCorrente : Conta
     {
+        public ContaCorrente(int numero) : base(numero)
+        {
+        }
+
         public override bool Saca(double valor)
         {
             valor += 0.05;
