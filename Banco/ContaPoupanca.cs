@@ -4,11 +4,8 @@ namespace Banco
 {
     public class ContaPoupanca : Conta
     {
-
-        public void CalcularRendimento()
-        {
-
-        }
+        public ContaPoupanca() { }
+        public ContaPoupanca(int numero) : base(numero) { }
 
         public override bool Saca(double valor)
         {

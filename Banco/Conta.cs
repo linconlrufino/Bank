@@ -8,6 +8,12 @@ namespace Banco
         public double Saldo { get; private set; }
         public Cliente Titular { get; set; }
 
+        public Conta() { }
+        public Conta(int numero)
+        {
+            this.Numero = numero;
+        }
+
         public void Deposita(double valor)
         {
             this.Saldo += valor;

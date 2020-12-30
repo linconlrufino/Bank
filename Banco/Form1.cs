@@ -5,7 +5,7 @@ namespace Banco
 {
     public partial class Form1 : Form
     {
-        private ContaPoupanca conta;
+        private Conta conta;
 
         public Form1()
         {
@@ -14,7 +14,7 @@ namespace Banco
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.conta = new ContaPoupanca();
+            this.conta = new ContaCorrente();
             this.conta.Numero = 1;
             Cliente cliente = new Cliente("Dodo");
             conta.Titular = cliente;
@@ -24,12 +24,12 @@ namespace Banco
             textoSaldo.Text = Convert.ToString(conta.Saldo);
 
             Conta c1 = new Conta();
-            ContaPoupanca c2 = new ContaPoupanca();
+            ContaPoupanca c2 = new ContaPoupanca(1);
 
-            TotalizadorDeContas t = new TotalizadorDeContas();
 
-            t.Soma(c1);
-            t.Soma(c2);
+            Conta[] contas = new Conta[5];
+            contas[0] = new Conta();
+            contas[0] = new ContaPoupanca();
 
         }
 

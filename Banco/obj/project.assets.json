@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linconl\\source\\repos\\Banco\\Banco\\Banco.csproj",
+      "projectUniqueName": "C:\\Users\\linconl\\source\\repos\\Bank-main\\Banco\\Banco.csproj",
       "projectName": "Banco",
-      "projectPath": "C:\\Users\\linconl\\source\\repos\\Banco\\Banco\\Banco.csproj",
+      "projectPath": "C:\\Users\\linconl\\source\\repos\\Bank-main\\Banco\\Banco.csproj",
       "packagesPath": "C:\\Users\\linconl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linconl\\source\\repos\\Banco\\Banco\\obj\\",
+      "outputPath": "C:\\Users\\linconl\\source\\repos\\Bank-main\\Banco\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
