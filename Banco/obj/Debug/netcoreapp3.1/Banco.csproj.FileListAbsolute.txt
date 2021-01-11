@@ -28,3 +28,121 @@ C:\Users\linconl\source\repos\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.cspr
 C:\Users\linconl\source\repos\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.dll
 C:\Users\linconl\source\repos\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
 C:\Users\linconl\source\repos\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.Form1.resources
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.FormCadastroConta.resources
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.GenerateResource.cache
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linco\Desktop\Bank-main-20210107T224422Z-001\Bank-main\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.Form1.resources
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.FormCadastroConta.resources
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.Informacao.resources
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.GenerateResource.cache
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linco\Desktop\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.Form1.resources
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.FormCadastroConta.resources
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.Informacao.resources
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.GenerateResource.cache
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linconl\Desktop\TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.Form1.resources
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.FormCadastroConta.resources
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.Informacao.resources
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.GenerateResource.cache
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linco\Desktop\FINAL TESTES Bank-main principal-20210108T110845Z-001-20210108T211958Z-001\FINAL TESTES Bank-main principal-20210108T110845Z-001\TESTES Bank-main principal\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\obj\Debug\netcoreapp3.1\Banco.Form1.resources
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\obj\Debug\netcoreapp3.1\Banco.FormCadastroConta.resources
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\obj\Debug\netcoreapp3.1\Banco.Informacao.resources
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.GenerateResource.cache
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linco\Desktop\FINAL-Bank-MAIN\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.Form1.resources
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.FormCadastroConta.resources
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.Informacao.resources
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.GenerateResource.cache
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linco\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.Form1.resources
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.FormCadastroConta.resources
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.Informacao.resources
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.GenerateResource.cache
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\linconl\Desktop\Last-Bank-Main\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache

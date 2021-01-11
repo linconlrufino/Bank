@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linconl\\source\\repos\\Bank-main\\Banco\\Banco.csproj": {}
+    "C:\\Users\\linconl\\Desktop\\Last-Bank-Main\\Banco\\Banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linconl\\source\\repos\\Bank-main\\Banco\\Banco.csproj": {
+    "C:\\Users\\linconl\\Desktop\\Last-Bank-Main\\Banco\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linconl\\source\\repos\\Bank-main\\Banco\\Banco.csproj",
+        "projectUniqueName": "C:\\Users\\linconl\\Desktop\\Last-Bank-Main\\Banco\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "C:\\Users\\linconl\\source\\repos\\Bank-main\\Banco\\Banco.csproj",
+        "projectPath": "C:\\Users\\linconl\\Desktop\\Last-Bank-Main\\Banco\\Banco.csproj",
         "packagesPath": "C:\\Users\\linconl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linconl\\source\\repos\\Bank-main\\Banco\\obj\\",
+        "outputPath": "C:\\Users\\linconl\\Desktop\\Last-Bank-Main\\Banco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
